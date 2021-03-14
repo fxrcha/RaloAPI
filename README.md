@@ -24,8 +24,8 @@ Deno와 TypeScript로 제작되었습니다.
 |-------|------|-----|
 | `/detail?v=불편해?` | "불편해? 불편하면 씨X 자세를 고쳐앉아,," | https://youtu.be/_-J-gDPQpNU?t=175 |
 | `/detail?v=좋아상처` | "그러니까.. 누군가를 좋아한다는 (생략)" | https://youtu.be/OAyyTrRP_zM?t=15 |
-| `/detail?v=안심도둑` | "아 안심하세요 도둑입니다" | "https://youtu.be/OAyyTrRP_zM?t=362" |
-| `/detail?v=gta` | "못생긴 X이 담배 피는거만큼 (생략)" | "https://youtu.be/OAyyTrRP_zM?t=52"
+| `/detail?v=안심도둑` | "아 안심하세요 도둑입니다" | https://youtu.be/OAyyTrRP_zM?t=362 |
+| `/detail?v=gta` | "못생긴 X이 담배 피는거만큼 (생략)" | https://youtu.be/OAyyTrRP_zM?t=52 |
 
 특정 밈 엔드포인트는 계속 추가하겠습니다.
 
